@@ -82,4 +82,4 @@ class MyBot(Bot):
                 await message.channel.send(resposta)
 
 bot = MyBot(command_prefix="&",intents=discord.Intents.all())
-bot.run('MTAzNDY2MzkyNDkxOTk3NTk0Nw.Gdr9Zd.yjpvKBl9k6R5fZzeIkazmMRan9nFBQ10GsjoS4')
+bot.run('MTAzNDY2MzkyNDkxOTk3NTk0Nw.GQNk1_.kwLMqM0dLBJex0rGSXth5wnRSXTzUiacZXFuyg')
